@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="big-data-analytics,big-data-analytics.main,big-data-analytics.test" />
+    <profile name="sbt 1" modules="big-data-analytics,big-data-analytics.main,big-data-analytics.main~1,big-data-analytics.test,big-data-analytics.test~1" />
   </component>
 </project>

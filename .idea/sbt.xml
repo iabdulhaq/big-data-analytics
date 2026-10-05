@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Users\ibrahima\Desktop\scala-tutorial\big-data-analytics\big-data-analytics" />
-            <option value="C:\Users\ibrahima\Desktop\scala-tutorial\big-data-analytics\big-data-analytics\project" />
+            <option value="C:\Users\ibrahima\Desktop\scala-tutorial\big-data-analytics" />
+            <option value="C:\Users\ibrahima\Desktop\scala-tutorial\big-data-analytics\project" />
           </set>
         </option>
         <option name="sbtVersion" value="2.0.10" />
